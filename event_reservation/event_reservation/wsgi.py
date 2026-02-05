@@ -1,5 +1,5 @@
 """
-WSGI config for events_planning_django project.
+WSGI config for event_reservation project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'events_planning_django.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "event_reservation.settings")
 
 application = get_wsgi_application()

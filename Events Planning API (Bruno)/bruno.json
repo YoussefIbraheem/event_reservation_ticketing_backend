@@ -1,9 +1,6 @@
 {
   "version": "1",
-  "name": "Events Planning API",
+  "name": "Event Reservation and Ticketing Backend",
   "type": "collection",
-  "ignore": [
-    "node_modules",
-    ".git"
-  ]
+  "ignore": ["node_modules", ".git"]
 }

@@ -1,1 +1,0 @@
-import events_planning_django.app.tests.apis.tests

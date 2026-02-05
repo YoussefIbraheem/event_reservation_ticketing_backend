@@ -1,5 +1,5 @@
 """
-ASGI config for events_planning_django project.
+ASGI config for event_reservation project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'events_planning_django.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "event_reservation.settings")
 
 application = get_asgi_application()

@@ -1,6 +1,6 @@
 {
   "python-envs.pythonProjects": [],
-  "python.testing.pytestArgs": ["events_planning_django"],
+  "python.testing.pytestArgs": ["event_reservation"],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true
 }
